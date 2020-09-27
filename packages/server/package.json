@@ -1,0 +1,9 @@
+{
+  "name": "hermodr-server",
+  "version": "0.0.1",
+  "description": "Server code for hermodr",
+  "main": "index.js",
+  "repository": "https://github.com/archerface/hermodr",
+  "author": "(Jonathan Stefani <jon.stefani@gmail.com>)",
+  "license": "MIT"
+}
